@@ -1,0 +1,24 @@
+{
+  "name": "jest-mock-new-date",
+  "version": "1.0.1",
+  "description": "How to use:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mifrill/jest-mock-new-date.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mifrill/jest-mock-new-date/issues"
+  },
+  "homepage": "https://github.com/Mifrill/jest-mock-new-date#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.7"
+  }
+}
