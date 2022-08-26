@@ -1,8 +1,9 @@
 {
   "name": "jest-mock-new-date",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Just add 'mockDate(mockedDate)' as hook for jest tests scope (describe function) and use 'new Date(mockedDate)' in tests.",
   "main": "./index.js",
+  "types": "./index.d.ts",
   "scripts": {
     "build": "rm -rf dist/ && tsc && cp ./package.json dist && cp ./README.md dist",
     "test": "jest --runInBand"
