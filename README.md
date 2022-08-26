@@ -1,5 +1,9 @@
 # jest-mock-new-date
 
+```
+npm i --save-dev jest-mock-new-date
+```
+
 How to use:
 
 ```ts
